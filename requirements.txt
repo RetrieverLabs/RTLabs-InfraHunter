@@ -1,0 +1,6 @@
+streamlit
+requests
+pandas
+python-whois
+mmh3
+tldextract
