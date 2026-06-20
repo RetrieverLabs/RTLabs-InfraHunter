@@ -52,4 +52,13 @@ This tool is built with:
 
 ---
 
+## ⚠️ Disclaimer
+
+For defensive security and authorized use only.
+
+---
+
+## 🏷️ Built by
+
+RetrieverLabs
 
