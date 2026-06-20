@@ -6,6 +6,13 @@ Built for threat hunting, triage, and rapid enrichment workflows — with no ext
 
 ---
 
+## 🌐 Live Tool
+
+👉 [https://rtlabs-infrahunter.streamlit.app/](https://rtlabs-infrahunter.streamlit.app/)
+
+Use it directly in your browser — no install needed.
+
+
 ## 🚀 What it does
 
 Paste in indicators such as:
@@ -45,8 +52,4 @@ This tool is built with:
 
 ---
 
-## 🖥️ How to run locally
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
